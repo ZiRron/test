@@ -1,0 +1,40 @@
+Độ hoàn thiện
+Về phần user :
+	Thiếu phần bộ lọc
+	Đăng nhập, đăng ký, đăng xuất
+	Tương tác và phản hồi
+	
+Về phần admin :
+Bộ lọc 
+Thống kê lượt người dùng
+-Lưu trữ thông tin khách hàng 
+-Thống kê doanh thu
+
+Về phần phi chức năng
+	Thiếu phương thức thanh toán ,
+	Chưa tối ưu hóa SEO
+Về phần bảo mật :
+	Chưa có chức năng đăng nhập => chưa có chức năng bảo mật cho hệ thống.
+Đánh giá hoàn thiện
+So với các yêu cầu của khách hàng và hệ thống thì chúng em đánh giá độ hoàn thiện là 5/10
+
+Các hướng phát triển:
+Ưu tiên :
+ Hoàn thành các yêu cầu chưa được thực hiện liệt kê ở trên
+Sau đó 
+Về user : 
+Có thể đăng nhập bằng email hoặc facebook
+Thanh toán trực tiến qua banking
+Quan sát được tiến trình giao hàng
+Chọn được phương thức giao hàng
+Có thể truy cập trên mọi nền tảng cũng như browser
+Xem được tình trạng hàng hóa (còn hay không)
+Về phần admin : 
+Phân quyền thêm role Nhân viên 
+Giao tiếp với nhân viên
+Có biểu đồ lợi nhuận của website
+Xét tình trạng hàng hóa
+Về phần phi chức năng: 
+	Sử dụng thủ thuật hash + salt cho mật khẩu để tăng độ bảo mật cho người dùng
+	Tăng số lượng người dùng truy cập vào trang web
+	
